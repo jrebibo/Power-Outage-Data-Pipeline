@@ -14,6 +14,7 @@ Each file contains ~300–400 outage incident records and typically includes:
 
 | Column Name | Description |
 |-------------|-------------|
+| `Event Month` | Month the outage occured as a string |
 | `Date Event Began` | Outage start date (MM/DD/YYYY) |
 | `Time Event Began` | Outage start time (hh:mm AM/PM) |
 | `Date of Restoration` | Outage end date |
