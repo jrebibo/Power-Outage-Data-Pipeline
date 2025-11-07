@@ -57,7 +57,7 @@ To add and analyze additional data, place the downloaded DOE Excel files in the 
 
 /doe_147_data/2023_Annual_Summary.xls
 
-The pipeline will automatically load any Excel files from this directory.
+Update the hardcoded file list in power_outage_data_pipeline.py to process addtional data from this directory. Future state should read in any files automatically and determine if they can be processed. 
 
 ---
 
