@@ -1,0 +1,4 @@
+numpy==2.3.3
+pandas==2.3.3
+# optional dependency 'xlrd'. Install xlrd >= 2.0.1 for xls Excel support (used by pandas for older file format)
+xlrd==2.0.1
